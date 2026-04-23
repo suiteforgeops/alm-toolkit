@@ -8,7 +8,7 @@ Chaque outil est un **fichier HTML unique** — zéro dépendance, zéro backend
 
 | Vol. | Outil | Concept | Lien |
 |------|-------|---------|------|
-| 1 | **EVE Sensitivity Calculator** | Sensibilité ΔEVE aux chocs de taux (±100/±200 bps) par bucket de maturité | [Ouvrir](https://suiteforgeops.github.io/alm-toolkit/) |
+| 1 | **EVE Sensitivity Calculator** | Sensibilité ΔEVE aux chocs de taux (±100/±200 bps) par bucket de maturité | [Ouvrir](https://suiteforgeops.github.io/alm-toolkit/EVE-sensitivity.html) |
 
 ## Comment utiliser
 
